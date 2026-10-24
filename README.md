@@ -1,64 +1,104 @@
-# Hey, I'm Eric 👋🏾
+Hey, I’m Eric 👋🏽
 
-### Operations Leader → Product Builder → Software Developer
+Culinary Operations Leader → Product Builder → Swift Developer
 
-I'm a hospitality operations professional with 15+ years of experience leading teams, improving workflows, managing high-volume operations, and solving real-world operational problems.
+I’m a culinary and hospitality operations professional with 15+ years of experience leading teams, managing high-volume service, training staff, controlling inventory and costs, and solving real-world operational problems.
 
-Now I'm bringing that experience into software development.
+Now I’m bringing that experience into technology.
 
-## 👨🏾‍💻 Currently Learning & Building With
+Rather than starting with software and looking for problems to solve, I’m starting with problems I’ve spent years solving in the real world — and learning how to build better tools for them.
 
-- Swift
-- SwiftUI
-- Git & GitHub
-- iOS / iPadOS Development
-- UI/UX Design
-- Data Modeling
-- Software Testing
-- Application Architecture
+⸻
 
-## 🔨 What I'm Building
+👨🏽‍🍳 Operations Experience
 
-I'm currently developing a **proprietary iPadOS operations platform** based on problems I've experienced firsthand during my career in hospitality operations.
+My background includes:
 
-The project combines:
+* Culinary & kitchen operations
+* BOH leadership and team management
+* High-volume service & catering
+* Training and SOP development
+* Inventory, ordering & par management
+* Food cost, waste & yield awareness
+* Workflow and process improvement
+* Service readiness & operational decision-making
 
-- Software Development
-- Product Design
-- Workflow Automation
-- Operations Management
-- Decision-Support Systems
-- User Experience Design
+I’ve worked across restaurant operations, private dining, catering, entertainment venues, and large-scale events.
 
-The source code and underlying architecture are maintained privately.
+⸻
 
-## 🧠 What I Bring to Tech
+👨🏽‍💻 What I’m Building
 
-Before writing software, I spent more than 15 years solving operational problems in real time.
+I’m currently developing my software skills using:
 
-My background includes operations leadership, team management and training, process improvement, SOP development, inventory and cost control, quality assurance, safety and compliance, and high-volume service environments.
+Swift • SwiftUI • Xcode • Git • GitHub
 
-That experience now influences how I approach software:
+My focus is building tools around real operational workflows — especially the places where communication, task management, readiness, and decision-making break down.
 
-**Understand the problem → understand the user → design the workflow → build the solution → test it in the real world.**
+ShiftFlow
 
-## 🚀 Currently Expanding My Skills
+A SwiftUI task and shift-management project built around real-world operations workflows.
 
-I'm continuing to develop my knowledge of:
+The project explores:
 
-`Swift` `SwiftUI` `Git` `GitHub` `APIs` `JSON` `SQL` `Databases` `Testing` `Software Architecture`
+* Task assignment
+* Shift organization
+* Operational accountability
+* Workflow visibility
+* Simple, usable interfaces for frontline teams
 
-## 🎯 Where I'm Headed
+This project is part of my transition from operations leader to product builder and software developer.
 
-I'm working toward opportunities in software development, product operations, implementation, QA, and technology-driven operations.
+⸻
 
-I'm especially interested in software that improves how people work.
+🧠 Product & AI Interests
 
----
+I’m particularly interested in the intersection of:
 
-### Current Focus
+AI + Hospitality + Operations + Human Decision-Making
 
-📱 Building with Swift & SwiftUI  
-🧪 Learning software testing and debugging  
-🌱 Developing my software engineering fundamentals  
-🔒 Building my primary commercial project privately
+I’m exploring how software and AI can support frontline teams without replacing the judgment of experienced operators.
+
+Areas I’m interested in include:
+
+* AI-assisted operational decision-making
+* Human-in-the-loop systems
+* Kitchen and hospitality technology
+* Workflow automation
+* Operational readiness
+* Training systems
+* Inventory and production intelligence
+* Product design informed by real-world domain expertise
+
+⸻
+
+🎯 What I’m Working Toward
+
+I’m building toward opportunities where my operational experience and growing technical skills intersect.
+
+I’m especially interested in roles involving:
+
+AI evaluation • Product operations • Hospitality technology • Workflow systems • QA/testing • Operations technology • Junior software development
+
+I bring something different to technology:
+
+I don’t just understand how software should work.
+I understand the environment, people, pressure, and operational problems the software is supposed to serve.
+
+⸻
+
+🚀 Current Focus
+
+* Building Swift & SwiftUI projects
+* Learning software development fundamentals
+* Using Git & GitHub for version control
+* Translating operational workflows into product requirements
+* Exploring AI evaluation and human-in-the-loop systems
+* Building a portfolio at the intersection of hospitality operations and technology
+
+⸻
+
+Always learning. Always building.
+
+Operations taught me how to solve problems under pressure.
+Technology is teaching me how to turn those solutions into products.
